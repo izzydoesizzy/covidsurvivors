@@ -9,3 +9,35 @@ li {
 .marginheader {
 	margin-top: 50px;
 }
+
+.project-2 {
+    padding: 120px 0;
+}
+
+.white {
+	background-color: #fefefe;
+}
+
+.less-white {
+	background-color: #f1f7ff;
+}
+
+
+.grey {
+	color: #919aaf
+}
+
+.spacer-50 {
+	margin-top: 50px;
+}
+.spacer-150 {
+	margin-top: 150px;
+}
+
+.benefits .line-margin20 {
+    background: linear-gradient(to right, #507bf5 0%,#04c3e1 100%);
+    height: 2px;
+    width: 50px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
