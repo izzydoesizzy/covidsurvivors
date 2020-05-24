@@ -72,7 +72,7 @@ li {
 
 
 .btn-1 {
-    background: #FACC62;
+    background: #10316B;
     box-shadow: 1px 1px 30px 0 rgba(0,0,0,0.2);
     text-decoration: none;
     color: #ffffff;
@@ -133,4 +133,8 @@ li {
 .slider {
     background: linear-gradient(to right, #3061ad 0%,#10316B 100%);
     height: 100vh;
+}
+
+.slider .content .left h1 {
+    color: #FACC62;
 }
