@@ -125,6 +125,10 @@ li {
 	margin-left: 20px;
 }
 
+.navbar .nav-item .nav-link:hover {
+    color: #FACC62;
+}
+
 
 .navbar {
     background: linear-gradient(to right, #3061ad 0%,#10316B 100%);
